@@ -1,6 +1,8 @@
 # Projeto-Clx
 
-### / (index.php) - Listagem de Funcionários:
+## Rotas do sistema:
+
+### /(index.php) - Listagem de Funcionários:
 
 - Exibe uma lista de todos os funcionários cadastrados no sistema.
 
