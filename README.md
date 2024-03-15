@@ -1,5 +1,7 @@
 # Projeto-Clx
 
+Projeto de Crud realizado com PHP 8.2, utilizando PDO para comunicacao com o banco de dados MySQL, feito sem uso de framework. Realizado utilizando Xamp.
+
 ## Rotas do sistema:
 
 ### /(index.php) - Listagem de Funcionários:
